@@ -83,7 +83,6 @@
   </style>
 </head>
 <body>
-  <h2>تسجيل الدخول</h2>
   <div class="login-container">
     @error('error')
       <div class="error-message" style="display:block;">{{ $message }}</div>  
